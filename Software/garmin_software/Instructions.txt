@@ -1,0 +1,20 @@
+G5 Software Update
+------------------
+
+To update the software in your Garmin G5 Electronic Flight Instrument, perform the following steps:
+													  
+1. Insert a FAT32-formatted micro SD card with at least 20 MB of free space into your card reader.
+
+2. Copy the "Garmin" folder to the top level (root directory) of the SD card.
+
+3. Safely eject the SD card.
+
+4. Apply power to your G5 Electronic Flight Instrument.
+
+5. Insert the SD card containing the software update.  You will be prompted to confirm before the update is installed.
+
+6. During the software update, the G5 will indicate "Loading".  Do not remove power during the update process.
+
+7. When the update is completed, the G5 will reset itself and turn on normally.
+
+8. Repeat steps 5-7 for each G5 unit in the aircraft.

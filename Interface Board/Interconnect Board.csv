@@ -1,0 +1,3 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"XPNDR_Serial_2,VPX_Serial_3,SkyView_3,SkyView_2,SkyView_1,Power_Input_1,Ident_&_Dimmer_Input_1,GPS_Serial_5,ELT_Serial_4,Dimmer_&_Audio_Output_1,AP_Roll_SV_Net_2,AP_Pitch_SV_Net_1,ADSB_Serial_1";"DSUB-9_Male_Vertical_P2.77x2.84mm_MountingHoles";13;"DE9_Plug_MountingHoles";;;
+2;"MFD_Main_2,PFD_Main_1";"DSUB-37_Male_Vertical_P2.77x2.84mm_MountingHoles";2;"DC37_Plug_MountingHoles";;;
